@@ -1,0 +1,20 @@
+.container{
+    margin: 0 auto;
+    display: flex;
+    border: 2px solid black;
+    width: 1,242px;
+    height: 84px;
+}
+
+
+img{
+    vertical-align: middle;
+    width: 33px;
+    height: 42px;
+    justify-content: space-between;
+}
+nav, ul,li{
+    display: flex;
+    vertical-align: middle;
+    justify-content: space-between;
+}
